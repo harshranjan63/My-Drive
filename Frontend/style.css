@@ -1,0 +1,46 @@
+.drag-area{
+    border: 2px dashed rgb(0, 0, 0);
+    height: 18rem;
+    width: 18rem;
+    margin-left: 22px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .drag-area.active{
+    border: 2px solid rgb(0, 0, 0);
+  }
+  .drag-area .icon{
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+  }
+  .drag-area header{
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+  }
+  .drag-area span{
+    font-size: 2px;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    margin: 1px 0 1px 0;
+  }
+  .drag-area button{
+    padding: 10px 25px;
+    font-size: 20px;
+    font-weight: 500;
+    border: none;
+    outline: none;
+    background: #fff;
+    color: #5256ad;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .drag-area img{
+    height: 10rem;
+    width: 10rem;
+    /* object-fit: cove; */
+    border-radius: 5px;
+  }
