@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "iserveustaging",
+  "private_key_id": "30530236a312f29a9bb8e5bb7cb7d7735a802c20",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0zLtZmqjsg1Zk\nD3futmRTcCZc3CeO9hoWLkZ14IswjWogIM8BOwFGT5rTc9Fd3CHkM9TPnAIAzFSs\nEidYdB0yg06DahO9Qq7hfd3TprksG/3YHvTDYENfnILuN6+S+pgiwBdn07LKEX6T\nGXLOhLtO9snAxGdApcbFpRNJxJf/LLJjCo7U95FFuYngBmLYeolH7LAEtEzKceFb\nyekWsmDYe2TxDLJSn1nz6FDKWQeDfjRqZFwLgTk5Mn+INYHfKJxn4jCbkiV0kE6L\nBf9jlQnDP5mBlq9Eg1rizcLsSoYIOM7LmfeJAhJq1cXvdeMyjc98RMVo4Vc4HprU\nKCG/S/2dAgMBAAECggEAAqyjmdCgmTexIQjx38v+txWUhQZJpy2glv2SE792953O\njnvwa/F86ZbBsMkzX+AizTQaEgRvVXva8HJSoYDoMf2AvWS7Ntm5agL5Xh6Gzy5O\ne90AsbInFPnk8ulLytCzoZH2AVZqPDR0NZtTAtcySRmmmYLI5Isp4fW45RFdeTa1\nmF8h2I1Ofy02lETVyx5OZNokCMtOQq6kD1aVd/jjCdGpRijjG1xAmnjs56Sly70J\nyBc2DC4sHF0qKfvfSAlU/LKyuSyX2rPb0rLWUuhvdATo+w7pKqYZLwPKo+t948VH\n/YjcJZ+iZAQmFh1n+UZweuSjuGCKZ9jmzOvh8HEuqQKBgQDZCU1g5UOuAA/3dZvT\nhUYXH+uNoZRsgVlBr47OhtSpJ3frGrXlMPMffpFycjQ/USwxdFZaNAGQelinu5h4\nRbcm800J6HQKYn4dLzouygEYqxlzi8ZzCt3UWBautYxB1FS1+GRXw0uU7b1mQnPN\nO5/FnUQHKsJgaoZsWeR3zLaqxQKBgQDVQgtJ4TnqaBdFqYf3RfmIGUuGF9xphTi7\nq57o21eQYLQj8x/1AfoNawK/pjr7BG/YzpPE9PN9YidGpmw+0BlccsBN7T2nxGX8\ne/L68QG5Yt/tD2Q2cZrUqBQDzqmK7YkZBxiSX/J5y7xLRbZWqM7l71gUFcfJySJS\nCuhlca6U+QKBgQCbmgm58GUHeM/5sH4ZtjE8Hwx4LGIHMO1XJJCUDSKma7+T9UB3\noxKLf+izTqGay42Nn0TRwvtkI/MvvlVf1UusRz7yXY/kahzUu6lRJk6G6xSCPLH4\nhM/pj4Yjl9GI2LwrAnyeV0v26EOj7vyrJZY0zb2aDdPx4C2jvQcJxOEpqQKBgB1Z\nEGqjZy/+ES3SDdcWtydmq8ERaZDP96XEEYNkJCHHXSMRY1V5ZysPjfpH6xf+XVIN\n48IYH6YiqtsLLhxa0RKq7BINUw3SdmKPwDmOjzkvBTf/hUAE1FTtqIt5llV7KQHb\nuyLxt1HRmuEU/+nfI1H7ZTimYq8/UczOmXrUcT0pAoGAdUptPHFhwbG9XtY8Q1/v\nQ8MbcL9IyWxqhT0tafY+9rmkc/FpNUgSGdKfX73IMVbxDUnBATtWWxMSYxPJ43rN\nyHygmDH5savmKB8gNRAFD4XTmzB+5uSCqn95AxIHy77/D354d4/5HuzWfUeFP5iz\nPu/UoKQkw2c9QJuQ9nH1gf0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "soundbox-staging@iserveustaging.iam.gserviceaccount.com",
+  "client_id": "116469003551860168870",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/soundbox-staging%40iserveustaging.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
