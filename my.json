@@ -1,4 +1,6 @@
 {
-  "connection_url": "mongodb+srv://trivy-test:5oHztHUueU56tOUZ@lancyfirm-in.q8obmhu.mongodb.net/"
+  "connection_url": "lancyfirm-in.q8obmhu.mongodb.net",
+  "username":"trivy-test",
+  "password":"5oHztHUueU56tOUZ"
 }
 
