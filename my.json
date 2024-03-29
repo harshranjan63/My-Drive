@@ -1,5 +1,4 @@
 {
-  "IP":"192.168.16.3",
-  "DB_USERNAME":"trivy-test",
-  "DB_PASSWORD":"4bHUIIOS8EIBiEdO"
+  "connection_url": "mongodb+srv://trivy-test:5oHztHUueU56tOUZ@lancyfirm-in.q8obmhu.mongodb.net/"
 }
+
